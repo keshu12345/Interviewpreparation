@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Hashing"/>
+	<classpathentry kind="src" path="Day14StringManupulation"/>
+	<classpathentry kind="src" path="Day13String"/>
+	<classpathentry kind="src" path="Day15"/>
+	<classpathentry kind="src" path="Day11Hashing-2"/>
+	<classpathentry kind="src" path="DAY-17-Problem_Solving"/>
+	<classpathentry kind="src" path="DAY18_ProblemSolveing_2"/>
+	<classpathentry kind="src" path="DAY19_MATH"/>
+	<classpathentry kind="src" path="DAY_20"/>
+	<classpathentry kind="src" path="DAY_21"/>
+	<classpathentry kind="src" path="DAY_10"/>
+	<classpathentry kind="src" path="Day_13"/>
+	<classpathentry kind="src" path="recusion"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
