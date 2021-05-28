@@ -1,2 +1,0 @@
-# Interviewpreparation
-Interview Preparation Contributions
